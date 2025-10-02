@@ -35,11 +35,11 @@ This project is a **Convolutional Neural Network (CNN) application** that recogn
 
 ## 📂 Project Structure
 
-- `dataset` → Folder containing datasets used for training/testing  
-- `images` → Folder containing images related to the project  
+- `dataset` → Datasets used for training/testing  
+- `images` → Output of the project  
 - `app.py` → Main application script  
 - `model.keras` → Trained Keras model file  
-- `notebook.ipynb` → Collab notebook for exploration, training, or analysis  
+- `notebook.ipynb` → Collab notebook for exploration, training & analysis  
 - `requirements.txt` → Python dependencies  
 - `LICENSE` → Project license  
 
